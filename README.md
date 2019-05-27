@@ -8,8 +8,7 @@ live encoder, video h.264, audio AAC, rtmp push. 在线真人视讯，在线棋�
 	4.可以录像到NAS存储。
 	5.可以订阅接收录像的分段信号(record start/stop)，mqtt订阅协议。
 	6.H.264 encoder参数可以选：baseline/main profile, GOP。
-	7.内置webserver，不支持video回显。
-	8.推流协议：rtmp/webrtc。
+	7.推流协议：rtmp/webrtc。
 
 # 收费版本：双摄像头和H.265。
 	1.支持2路摄像头及其混流。
@@ -21,8 +20,7 @@ live encoder, video h.264, audio AAC, rtmp push. 在线真人视讯，在线棋�
 	7.可以订阅接收录像的分段信号(record start/stop)，mqtt订阅协议。
 	8.video encoder参数可以选：H.264/H.265, baseline/main profile, GOP。
 	9.支持GPU优化以减轻CPU负担。
-	10.内置webserver，不支持video回显。
-	11.推流协议：rtmp/webrtc。
+	10.推流协议：rtmp/webrtc。
 	后续分支出主播版本：支持桌面和弹幕。
 
 # contact:
