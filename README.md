@@ -5,7 +5,7 @@
 	1.可以推一路摄像头和一路audio，固定：H.264+AAC。
 	2.可以在流上打timestamp，精准度：ms。 
 	3.同时推往三个不同流服地址。
-	4.可以录像到NAS存储。
+	4.可以录像到Local/NAS存储。
 	5.可以订阅接收录像的分段信号(record start/stop)。
 	6.H.264 encoder参数可以选：baseline/main profile, GOP。
 	7.推流协议：rtmp。
@@ -19,12 +19,13 @@
 	4.可以推一路摄像头和一路audio，固定：H.264+AAC。
 	5.可以在流上打timestamp，精准度：ms。 
 	6.同时推往三个不同流服地址。
-	7.可以录像到NAS存储。
+	7.可以录像到Local/NAS存储。
 	8.可以订阅接收录像的分段信号(record start/stop)。
 	9.H.264 encoder参数可以选：baseline/main profile, GOP。
 	10.推流协议：rtmp。
 	11.支持断开后自动重推。
 	12.远程统一配置流参数。
+	13.支持代理proxy设置。
 
 # contact:
 	add qq Group FiliPusher(688418930).
